@@ -1,0 +1,146 @@
+body {
+    background: url(http://static1.squarespace.com/static/583ca2f2d482e9bbbef7dad9/58863361d2b857a1707bf488/58865e3c1b10e3084e28ff16/1534366119245/iStock-1318522111900-indigenous-water.jpg?format=1500w)
+
+}
+
+h1 {color: rgb(0, 0, 0);
+    background-color: rgb(0,255,157);
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+    font-family: fantasy;
+    margin-top: 40px;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img{  position: absolute;
+    top: 18%;
+    left: 45.5%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+}
+
+
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 20;
+    top: 119px;
+    left: 156px;
+    width: 25%;
+    background-color: rgb(3, 3, 3);
+    position: absolute;
+    
+}
+nav ul li {
+    float: left;    
+    
+}
+
+nav ul li a {
+    display: block;
+    padding: 10px;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    
+}
+h2{
+    color: black;
+    position: absolute;
+    bottom: 365px;
+    align-content:center;
+    left: 515px;
+    width: 500;
+    padding: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-decoration: underline;
+
+}
+
+h3{
+    color: black;
+    position: absolute;
+    bottom: 330px;
+    align-content:center;
+    left: 500px;
+    width: 500;
+    padding: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    
+
+}
+
+
+p{
+    color: black;
+    position: absolute;
+    bottom: 290px;
+    align-content:center;
+    left: 500px;
+    width: 500;
+    padding: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    
+
+}
+
+h4{
+    color: black;
+    position: absolute;
+    bottom: 240px;
+    align-content:center;
+    left: 500px;
+    width: 500;
+    padding: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    
+
+
+}
+
+table{
+    color: black;
+    position: absolute;
+    bottom: 180px;
+    align-content:center;
+    left: 875px;
+    width: 500;
+    padding: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+
+}
+h5{  color: black;
+    position: absolute;
+    bottom: 345px;
+    align-content:center;
+    left: 850px;
+    width: 500;
+    padding: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+
+iframe{
+    position: absolute;
+    top: 80%;
+    left: 64.5%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+}
+
+body{
+    background-color: rgb(221, 209, 209);
+}
